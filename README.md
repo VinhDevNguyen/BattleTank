@@ -5,3 +5,4 @@ An open world head to head tank fight with simple AI, terrain, and control syste
 * BT2 Game Design Document (GDD)
 * BT3 Setting Up a GitHub Repo
 * BT4 Landscape Process
+* BT5 Tank Control System
