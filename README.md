@@ -6,3 +6,4 @@ An open world head to head tank fight with simple AI, terrain, and control syste
 * BT3 Setting Up a GitHub Repo
 * BT4 Landscape Process
 * BT5 Tank Control System
+* BT6 Actors from Multiple Meshes
