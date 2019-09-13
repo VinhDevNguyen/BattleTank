@@ -7,3 +7,4 @@ An open world head to head tank fight with simple AI, terrain, and control syste
 * BT4 Landscape Process
 * BT5 Tank Control System
 * BT6 Actors from Multiple Meshes
+* BT7 3rd Person Camera Control
